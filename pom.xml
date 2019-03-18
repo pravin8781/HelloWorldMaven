@@ -18,7 +18,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>file:///var/lib/jenkins/pre_test</url>
+         <url>file:///var/lib/jenkins/pre_test/</url>
        </repository>
    </distributionManagement>
 
